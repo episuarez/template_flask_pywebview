@@ -7,4 +7,4 @@ MarkupSafe==2.0.0
 pycparser==2.20
 pythonnet==2.5.2
 pywebview==3.4
-Werkzeug==2.0.0
+Werkzeug==2.2.3
